@@ -1,0 +1,3 @@
+arcade_obj/*.o
+games_obj/*.o
+lib_obj/*.o

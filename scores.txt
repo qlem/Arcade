@@ -1,0 +1,70 @@
+Pacman-CLE-490
+Pacman-FOO-1360
+Solar Fox-FUC-6
+Solar Fox-FOO-6
+Solar Fox-CLE-90
+Solar Fox-KKK-62
+Solar Fox-KKK-45
+Solar Fox-UNK-30
+Snake-KKK-12
+Snake-FOO-3
+Pacman-KKK-2680
+Pacman-CLE-520
+Pacman-CLE-2430
+Pacman-CLE-2680
+Pacman-DZE-70
+Solar Fox-UNK-0
+Solar Fox-FOO-0
+Solar Fox-UNK-79
+Solar Fox-UNK-0
+Solar Fox-DDZ-0
+Solar Fox-UNK-0
+Solar Fox-DDD-0
+Pacman-BOB-1590
+Snake-BOB-41
+Pacman-UNK-1850
+Solar Fox-UNK-6
+Solar Fox-FOO-128
+Pacman-UNK-2280
+Snake-UNK-3
+Solar Fox-UNK-30
+Snake-QLE-40
+Snake-UNK-0
+Snake-UNK-2
+Snake-UNK-32
+Solar Fox-UNK-21
+Pacman-UNK-1560
+Pacman-FUK-2320
+Solar Fox-UNK-0
+Snake-UNK-8
+Solar Fox-UNK-57
+Solar Fox-UNK-6
+Solar Fox-UNK-6
+Solar Fox-UNK-0
+Snake-UNK-0
+Snake-FOO-14
+Snake-UNK-9
+Snake-UNK-8
+Pacman-UNK-2290
+Snake-UNK-0
+Snake-UNK-5
+Pacman-UNK-240
+Snake-DZE-0
+Pacman-UBI-0
+Snake-UNK-0
+Pacman-FOO-2480
+Pacman-KKK-1970
+Pacman-KKK-2880
+Pacman-UNK-1930
+Pacman-UNK-2170
+Solar Fox-UNK-22
+Pacman-ABV-2680
+Pacman-UNK-2280
+Snake-PPP-2
+Solar Fox-UNK-6
+Solar Fox-UNK-6
+Solar Fox-UNK-6
+Solar Fox-UNK-0
+Solar Fox-RDZ-18
+Solar Fox-UNK-21
+Solar Fox-UNK-6
