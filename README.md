@@ -4,7 +4,10 @@ Play arcade games and change graphics library or game dynamically. Developed in 
 
 ## Screenshots
 
-![alt text]
+![alt text](https://raw.githubusercontent.com/qlem/Arcade/master/screenshots/menu_sfml.png)
+![alt text](https://raw.githubusercontent.com/qlem/Arcade/master/screenshots/pacman_sfml.png)
+![alt text](https://raw.githubusercontent.com/qlem/Arcade/master/screenshots/snake_sfml.png)
+![alt text](https://raw.githubusercontent.com/qlem/Arcade/master/screenshots/solar_sfml.png)
 
 ## Add your own graphics library and game
 
